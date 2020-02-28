@@ -12,6 +12,10 @@ O livro atual escolhido da lista para leitura será sorteado através do [random
 
 -- nenhum --
 
+## Valor total gasto na compra dos livros até o momento
+
+-- 0 --
+
 ## Porcentagem concluída total da lista
 
 **0%**
