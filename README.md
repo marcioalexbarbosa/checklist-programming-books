@@ -6,6 +6,10 @@ Lista obtida a partir de *web scrapping* de resultados de busca no Google (por "
 
 Para cada item da lista vou marcar o que eu já tiver lido, a data de início da leitura e a data de fim da leitura, assim como uma breve revisão do título em questão.
 
+## Porcentagem concluída total da leitura
+
+**0%**
+
 ### 25
 - [ ] [Continuous Delivery](https://www.amazon.com.br/dp/0321601912/ref=cm_sw_em_r_mt_dp_U_qIqwEbN5TRZAC) by Jez Humble & David Farley
 
