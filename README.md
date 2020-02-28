@@ -1,4 +1,4 @@
-# Os 25 livros de programação mais lidos de todos os tempos
+# Os 25 livros de programação mais recomendados de todos os tempos
 
 Uma lista de controle de leitura dos 25 livros de programação mais recomendados de todos os tempos.
 
@@ -23,3 +23,18 @@ Para cada item da lista vou marcar o que eu já tiver lido, a data de início da
 
 ### 20
 - [ ] [Domain-Driven Design](https://www.amazon.com.br/dp/B00794TAUG/ref=cm_sw_em_r_mt_dp_U_IQqwEbJNHV428) by Eric Evans
+
+### 19
+- [ ] [The Art of Computer Programming](https://www.amazon.com.br/dp/0321751043/ref=cm_sw_em_r_mt_dp_U_s6qwEbEE4VAY2) by Donald E. Knuth
+
+### 18
+- [ ] [Structure and Interpretation of Computer Programs](https://www.amazon.com.br/dp/0262510871/ref=cm_sw_em_r_mt_dp_U_R9qwEbK2S9KA3) by Harold Abelson / Gerald Jay Sussman / Julie Sussman
+
+### 17
+- [ ] [Patterns of Enterprise Application Architecture](https://www.amazon.com.br/dp/B008OHVDFM/ref=cm_sw_em_r_mt_dp_U_u.qwEbTPKJWAX) by Martin Fowler
+
+### 16
+- [ ] [Programming Pearls](https://www.amazon.com.br/dp/B01EAW7XXU/ref=cm_sw_em_r_mt_dp_U_GarwEbKSAP21M) by Jon Bentley
+
+### 15
+- [ ] [Peopleware](https://www.amazon.com.br/dp/B00DY5A8X2/ref=cm_sw_em_r_mt_dp_U_IbrwEb5JSGCQ8) by Tom DeMarco & Tim Lister
