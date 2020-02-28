@@ -20,6 +20,14 @@ O livro atual escolhido da lista para leitura será sorteado através do [random
 
 **0%**
 
+## Data de início do projeto
+
+-- algum dia próximo --
+
+## Data de conclusão do projeto
+
+-- algum dia no futuro --
+
 ## Lista
 
 ### 25
