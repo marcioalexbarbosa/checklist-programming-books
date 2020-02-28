@@ -38,3 +38,18 @@ Para cada item da lista vou marcar o que eu já tiver lido, a data de início da
 
 ### 15
 - [ ] [Peopleware](https://www.amazon.com.br/dp/B00DY5A8X2/ref=cm_sw_em_r_mt_dp_U_IbrwEb5JSGCQ8) by Tom DeMarco & Tim Lister
+
+### 14
+- [ ] [Introduction to Algorithms](https://www.amazon.com.br/dp/B007CNRCAO/ref=cm_sw_em_r_mt_dp_U_GfrwEb9Z7VK4B) by Thomas H. Cormen / Charles E. Leiserson / Ronald L. Rivest / Clifford Stein
+
+### 13
+- [ ] [Code](https://www.amazon.com.br/dp/B00JDMPOK2/ref=cm_sw_em_r_mt_dp_U_6grwEbX1Y7B9Q) by Charles Petzold
+
+### 12
+- [ ] [Don’t Make Me Think](https://www.amazon.com.br/dp/B00HJUBRPG/ref=cm_sw_em_r_mt_dp_U_firwEbXPN19HM) by Steve Krug 
+
+### 11
+- [ ] [Soft Skills](https://www.amazon.com.br/dp/1617292397/ref=cm_sw_em_r_mt_dp_U_kjrwEbRVYAJZN) by John Sonmez 
+
+### 10
+- [ ] [Cracking the Coding Interview](https://www.amazon.com.br/dp/0984782850/ref=cm_sw_em_r_mt_dp_U_mkrwEbQYM4FCX) by Gayle Laakmann McDowell
