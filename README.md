@@ -2,7 +2,7 @@
 
 Uma lista de controle de leitura dos 25 livros de programação mais recomendados de todos os tempos.
 
-Lista obtida a partir de *web scrapping* de resultados de busca no Google (por "Best Programming Books"). Detalhes da técnica utilizada e dos resultados obtidos podem ser encontrados em [The 25 most recommended programming books of all-time](https://www.daolf.com/posts/best-programming-books/)
+Lista obtida a partir de *web scrapping* de resultados de busca no Google (por "Best Programming Books"). Detalhes da técnica utilizada e dos resultados obtidos podem ser encontrados em [The 25 most recommended programming books of all-time](https://www.daolf.com/posts/best-programming-books/).
 
 Para cada item da lista vou marcar o que eu já tiver lido, a data de início da leitura e a data de fim da leitura, assim como uma breve revisão do título em questão.
 
