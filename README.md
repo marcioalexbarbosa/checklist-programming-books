@@ -57,3 +57,30 @@ Para cada item da lista vou marcar o que eu já tiver lido, a data de início da
 
 ### 10
 - [ ] [Cracking the Coding Interview](https://www.amazon.com.br/dp/0984782850/ref=cm_sw_em_r_mt_dp_U_mkrwEbQYM4FCX) by Gayle Laakmann McDowell
+
+### 9
+- [ ] [Design Patterns](https://www.amazon.com.br/dp/B000SEIBB8/ref=cm_sw_em_r_mt_dp_U_jArwEbMEYNZFC) by by Erich Gamma / Richard Helm / Ralph Johnson / John Vlissides
+
+### 8
+- [ ] [Working Effectively with Legacy Code](https://www.amazon.com.br/dp/B005OYHF0A/ref=cm_sw_em_r_mt_dp_U_SBrwEbJCTFYCC) by Michael Feathers
+
+### 7
+- [ ] [The Clean Coder](https://www.amazon.com.br/dp/B0050JLC9Y/ref=cm_sw_em_r_mt_dp_U_2CrwEb1J9E2R0) by Robert Martin 
+
+### 6
+- [ ] [The Mythical Man-Month](https://www.amazon.com.br/dp/B00B8USS14/ref=cm_sw_em_r_mt_dp_U_pErwEb3WS8D3F) by Frederick P. Brooks Jr
+
+### 5
+- [ ] [Head First Design Patterns](https://www.amazon.com.br/dp/B00AA36RZY/ref=cm_sw_em_r_mt_dp_U_oGrwEbAQ51WD2) by Eric Freeman / Bert Bates / Kathy Sierra / Elisabeth Robson
+
+### 4
+- [ ] [Refactoring](https://www.amazon.com.br/dp/B07LCM8RG2/ref=cm_sw_em_r_mt_dp_U_HHrwEbF592KCM) by Martin Fowler
+
+### 3
+- [ ] [Code Complete](https://www.amazon.com.br/dp/B00JDMPOSY/ref=cm_sw_em_r_mt_dp_U_ZIrwEbPJ3GXEB) by Steve McConnell
+
+### 2 
+- [ ] [Clean Code](https://www.amazon.com.br/dp/B001GSTOAM/ref=cm_sw_em_r_mt_dp_U_AKrwEbD2APGMG) by Robert C. Martin
+
+### 1
+- [ ] [The Pragmatic Programmer](https://www.amazon.com.br/dp/0135957052/ref=cm_sw_em_r_mt_dp_U_VLrwEb0PN2K30) by David Thomas & Andrew Hunt
