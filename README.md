@@ -16,6 +16,8 @@ O livro atual escolhido da lista para leitura será sorteado através do [random
 
 **0%**
 
+## Lista
+
 ### 25
 - [ ] [Continuous Delivery](https://www.amazon.com.br/dp/0321601912/ref=cm_sw_em_r_mt_dp_U_qIqwEbN5TRZAC) by Jez Humble & David Farley
 
