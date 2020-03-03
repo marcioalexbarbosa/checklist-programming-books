@@ -108,3 +108,6 @@ R$ 78,09
 
 ### 1
 - [ ] [The Pragmatic Programmer](https://www.amazon.com.br/dp/0135957052/ref=cm_sw_em_r_mt_dp_U_VLrwEb0PN2K30) by David Thomas & Andrew Hunt
+
+## Bonus read
+- [ ] [Compilers: Principles, Techniques, and Tools](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools) by Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman
