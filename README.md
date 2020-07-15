@@ -12,10 +12,6 @@ O livro atual escolhido da lista para leitura será sorteado através do [random
 
 16 - Programming Pearls
 
-## Valor total gasto na compra dos livros até o momento
-
-R$ 78,09
-
 ## Porcentagem concluída total da lista
 
 **0%**
@@ -62,7 +58,6 @@ R$ 78,09
 
 * data do início da leitura: 01/03/2020
 * tipo do livro: kindle
-* valor pago: R$ 78,09
 
 ### 15
 - [ ] [Peopleware](https://www.amazon.com.br/dp/B00DY5A8X2/ref=cm_sw_em_r_mt_dp_U_IbrwEb5JSGCQ8) by Tom DeMarco & Tim Lister
