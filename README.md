@@ -56,9 +56,6 @@ O livro atual escolhido da lista para leitura será sorteado através do [random
 ### 16
 - [ ] [Programming Pearls](https://www.amazon.com.br/dp/B01EAW7XXU/ref=cm_sw_em_r_mt_dp_U_GarwEbKSAP21M) by Jon Bentley
 
-* data do início da leitura: 01/03/2020
-* tipo do livro: kindle
-
 ### 15
 - [ ] [Peopleware](https://www.amazon.com.br/dp/B00DY5A8X2/ref=cm_sw_em_r_mt_dp_U_IbrwEb5JSGCQ8) by Tom DeMarco & Tim Lister
 
