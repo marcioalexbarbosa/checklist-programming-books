@@ -4,10 +4,6 @@ Uma lista de controle de leitura dos 25 livros de programação mais recomendado
 
 Lista obtida a partir de *web scrapping* de resultados de busca no Google (por "Best Programming Books"). Detalhes da técnica utilizada e dos resultados obtidos podem ser encontrados em [The 25 most recommended programming books of all-time](https://www.daolf.com/posts/best-programming-books/).
 
-Para cada item da lista vou marcar o que eu já tiver lido, a data de início da leitura e a data de fim da leitura, assim como uma breve revisão do título em questão.
-
-O livro atual escolhido da lista para leitura será sorteado através do [random.org](https://www.random.org/).
-
 ## Lendo no momento
 
 16 - Programming Pearls
