@@ -6,19 +6,11 @@ Lista obtida a partir de *web scrapping* de resultados de busca no Google (por "
 
 ## Lendo no momento
 
-16 - Programming Pearls
+23 - The Self-Taught Programmer
 
 ## Porcentagem concluída total da lista
 
-**0%**
-
-## Data de início do projeto
-
-01/03/2020
-
-## Data de conclusão do projeto
-
--- algum dia no futuro --
+**12%**
 
 ## Lista
 
@@ -50,7 +42,7 @@ Lista obtida a partir de *web scrapping* de resultados de busca no Google (por "
 - [ ] [Patterns of Enterprise Application Architecture](https://www.amazon.com.br/dp/B008OHVDFM/ref=cm_sw_em_r_mt_dp_U_u.qwEbTPKJWAX) by Martin Fowler
 
 ### 16
-- [ ] [Programming Pearls](https://www.amazon.com.br/dp/B01EAW7XXU/ref=cm_sw_em_r_mt_dp_U_GarwEbKSAP21M) by Jon Bentley
+- [x] [Programming Pearls](https://www.amazon.com.br/dp/B01EAW7XXU/ref=cm_sw_em_r_mt_dp_U_GarwEbKSAP21M) by Jon Bentley
 
 ### 15
 - [ ] [Peopleware](https://www.amazon.com.br/dp/B00DY5A8X2/ref=cm_sw_em_r_mt_dp_U_IbrwEb5JSGCQ8) by Tom DeMarco & Tim Lister
@@ -71,7 +63,7 @@ Lista obtida a partir de *web scrapping* de resultados de busca no Google (por "
 - [ ] [Cracking the Coding Interview](https://www.amazon.com.br/dp/0984782850/ref=cm_sw_em_r_mt_dp_U_mkrwEbQYM4FCX) by Gayle Laakmann McDowell
 
 ### 9
-- [ ] [Design Patterns](https://www.amazon.com.br/dp/B000SEIBB8/ref=cm_sw_em_r_mt_dp_U_jArwEbMEYNZFC) by by Erich Gamma / Richard Helm / Ralph Johnson / John Vlissides
+- [x] [Design Patterns](https://www.amazon.com.br/dp/B000SEIBB8/ref=cm_sw_em_r_mt_dp_U_jArwEbMEYNZFC) by by Erich Gamma / Richard Helm / Ralph Johnson / John Vlissides
 
 ### 8
 - [ ] [Working Effectively with Legacy Code](https://www.amazon.com.br/dp/B005OYHF0A/ref=cm_sw_em_r_mt_dp_U_SBrwEbJCTFYCC) by Michael Feathers
@@ -92,7 +84,7 @@ Lista obtida a partir de *web scrapping* de resultados de busca no Google (por "
 - [ ] [Code Complete](https://www.amazon.com.br/dp/B00JDMPOSY/ref=cm_sw_em_r_mt_dp_U_ZIrwEbPJ3GXEB) by Steve McConnell
 
 ### 2 
-- [ ] [Clean Code](https://www.amazon.com.br/dp/B001GSTOAM/ref=cm_sw_em_r_mt_dp_U_AKrwEbD2APGMG) by Robert C. Martin
+- [x] [Clean Code](https://www.amazon.com.br/dp/B001GSTOAM/ref=cm_sw_em_r_mt_dp_U_AKrwEbD2APGMG) by Robert C. Martin
 
 ### 1
 - [ ] [The Pragmatic Programmer](https://www.amazon.com.br/dp/0135957052/ref=cm_sw_em_r_mt_dp_U_VLrwEb0PN2K30) by David Thomas & Andrew Hunt
@@ -100,4 +92,4 @@ Lista obtida a partir de *web scrapping* de resultados de busca no Google (por "
 ## Bonus read
 - [ ] [Compilers: Principles, Techniques, and Tools](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools) by Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman
 
-- [ ] [Orientação a Objetos e SOLID para Ninjas: Projetando classes flexíveis](https://www.amazon.com.br/Orientação-Objetos-SOLID-para-Ninjas-ebook/dp/B019OU0G5U/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&dchild=1&keywords=oo+ninjas&qid=1621903739&sr=8-1) by Mauricio Aniche 
+- [x] [Orientação a Objetos e SOLID para Ninjas: Projetando classes flexíveis](https://www.amazon.com.br/Orientação-Objetos-SOLID-para-Ninjas-ebook/dp/B019OU0G5U/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&dchild=1&keywords=oo+ninjas&qid=1621903739&sr=8-1) by Mauricio Aniche 
