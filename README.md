@@ -4,10 +4,6 @@ Uma lista de controle de leitura dos 25 livros de programação mais recomendado
 
 Lista obtida a partir de *web scrapping* de resultados de busca no Google (por "Best Programming Books"). Detalhes da técnica utilizada e dos resultados obtidos podem ser encontrados em [The 25 most recommended programming books of all-time](https://www.daolf.com/posts/best-programming-books/).
 
-## Lendo no momento
-
-23 - The Self-Taught Programmer
-
 ## Porcentagem concluída total da lista
 
 **12%**
