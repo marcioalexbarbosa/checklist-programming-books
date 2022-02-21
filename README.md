@@ -93,3 +93,5 @@ Lista obtida a partir de *web scrapping* de resultados de busca no Google (por "
 - [ ] [Compilers: Principles, Techniques, and Tools](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools) by Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman
 
 - [x] [Orientação a Objetos e SOLID para Ninjas: Projetando classes flexíveis](https://www.amazon.com.br/Orientação-Objetos-SOLID-para-Ninjas-ebook/dp/B019OU0G5U/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&dchild=1&keywords=oo+ninjas&qid=1621903739&sr=8-1) by Mauricio Aniche 
+
+- [x] [Growing as a Mobile Engineer](https://gergelyorosz.gumroad.com/l/growing-as-a-mobile-engineer)
